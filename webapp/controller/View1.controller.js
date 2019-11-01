@@ -16,7 +16,9 @@ sap.ui.define([
 					{
 						"Language": "Marathi        "					},
 					{
-						"Language": "Gujarati       "					}
+						"Language": "Gujarati       "					},
+					{
+						"Language": "Kannada       "					}
 				]
 			};
 
