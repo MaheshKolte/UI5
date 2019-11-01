@@ -1,0 +1,21 @@
+{
+	"Employee": [
+		{
+			"Competency": "TRM",
+			"Module": "Tax and Revenue Management",
+			"SubModule": "Public Sector Tax Assesment",
+			"SkillLevel": "Intermediate "
+		}, 	{
+			"Competency": "TECHNICAL",
+			"Module": "SAP-ABAP",
+			"SubModule": "Business Addinns",
+			"SkillLevel": "Expert "
+		}, 	{
+			"Competency": "TECHNICAL",
+			"Module": "SAP-ABAP",
+			"SubModule": "SMARTFORMS",
+			"SkillLevel": "Professional"
+		}
+
+		]
+}
